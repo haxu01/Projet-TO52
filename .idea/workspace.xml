@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff107b9e-675c-45c9-a532-946c43223432" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/FreemarkerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/FreemarkerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/MybatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/ShiroTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/ShiroTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/realm/MyShiroRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/realm/MyShiroRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/service/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/service/SensitiveWordFilterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/service/SensitiveWordFilterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/websocket/MessageDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/websocket/MessageDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/websocket/MyWebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/config/websocket/MyWebSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/AdminUserAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/AdminUserAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/IndexAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/IndexAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/RoleAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/RoleAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/TagAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/TagAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/TopicAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/TopicAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/UserAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/admin/UserAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/BaseApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/BaseApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/CollectApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/CollectApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/CommentApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/CommentApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/IndexApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/IndexApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/NotificationApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/NotificationApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/SettingsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/SettingsApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/TopicApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/TopicApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/UserApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/api/UserApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/OAuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/OAuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/controller/front/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/directive/NotificationsDirective.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/directive/NotificationsDirective.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/interceptor/CommonInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/interceptor/CommonInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/mapper/NotificationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/mapper/NotificationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/OAuthUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/OAuthUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/SystemConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/SystemConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/vo/CommentsByTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/model/vo/CommentsByTopic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/CommentLayerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/CommentLayerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/ElasticSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/ElasticSearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/RedisCachePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/RedisCachePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/RedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/SocialPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/plugin/SocialPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IAdminUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IAdminUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ICodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ICodeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ICollectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ICollectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ICommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ICommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IIndexedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IIndexedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/INotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/INotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IPermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IPermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IRolePermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IRolePermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ISystemConfigService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ISystemConfigService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ITagService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ITagService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ITopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ITopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ITopicTagService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/ITopicTagService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/AdminUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/AdminUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/CodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/CodeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/CollectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/CollectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/PermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/PermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/RolePermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/RolePermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/SystemConfigService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/SystemConfigService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/TagService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/TagService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/TopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/TopicTagService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/TopicTagService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/service/impl/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/BaseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/BaseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/HttpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/LocaleMessageSourceUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/LocaleMessageSourceUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/MarkdownUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/MarkdownUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/SpringContextUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/SpringContextUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/Captcha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/Captcha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/GifCaptcha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/GifCaptcha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/Randoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/Randoms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/SpecCaptcha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/SpecCaptcha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haoran/Brainstorming/util/captcha/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-docker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-docker.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23ungBgFO8BMPKAAkplxzzTlJZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../项目代码/BrainStorming" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PybbsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haoran.Brainstorming.PybbsApplication" />
+      <module name="Brainstorming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haoran.Brainstorming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PybbsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff107b9e-675c-45c9-a532-946c43223432" name="Changes" comment="" />
+      <created>1642592950016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642592950016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "site",
+      "type": "com.haoran.Brainstorming.config.SiteConfig",
+      "sourceType": "com.haoran.Brainstorming.config.SiteConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "site.datasource-driver",
+      "type": "java.lang.String",
+      "sourceType": "com.haoran.Brainstorming.config.SiteConfig"
+    },
+    {
+      "name": "site.datasource-password",
+      "type": "java.lang.String",
+      "sourceType": "com.haoran.Brainstorming.config.SiteConfig"
+    },
+    {
+      "name": "site.datasource-url",
+      "type": "java.lang.String",
+      "sourceType": "com.haoran.Brainstorming.config.SiteConfig"
+    },
+    {
+      "name": "site.datasource-username",
+      "type": "java.lang.String",
+      "sourceType": "com.haoran.Brainstorming.config.SiteConfig"
+    }
+  ],
+  "hints": []
+}

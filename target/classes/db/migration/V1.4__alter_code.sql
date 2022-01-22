@@ -1,0 +1,14 @@
+
+
+ALTER TABLE `code`
+	ALTER `user_id` DROP DEFAULT;
+ALTER TABLE `code`
+	CHANGE COLUMN `user_id` `user_id` INT(11) NULL AFTER `id`,
+	CHANGE COLUMN `email` `email` VARCHAR(255) NULL DEFAULT NULL AFTER `expire_time`,
+	ADD COLUMN `mobile` VARCHAR(255) NULL DEFAULT NULL AFTER `email`;
+ALTER TABLE `user`
+  ADD COLUMN `mobile` VARCHAR(255) NULL DEFAULT NULL AFTER `email`;
+ALTER TABLE `system_config`
+	CHANGE COLUMN `type` `type` VARCHAR(255) NULL DEFAULT NULL;
+ALTER TABLE `system_config`
+	CHANGE COLUMN `value` `value` VARCHAR(255) NULL DEFAULT '';

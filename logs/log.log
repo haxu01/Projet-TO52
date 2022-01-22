@@ -1,0 +1,36 @@
+2022-01-20 02:08:58 [restartedMain] INFO  c.h.B.PybbsApplication - Starting PybbsApplication on LAPTOP-4JJS08AG with PID 48048 (started by admin in C:\Users\admin\Desktop\TO52\Code\BrainStorming code)
+2022-01-20 02:08:58 [restartedMain] INFO  c.h.B.PybbsApplication - The following profiles are active: dev
+2022-01-20 02:08:58 [restartedMain] INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\admin\.m2\repository\com\sun\xml\bind\jaxb-impl\2.1\jaxb-impl-2.1.jar referenced one or more files that do not exist: file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/jaxb-api.jar,file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/activation.jar,file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/jsr173_1.0_api.jar,file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/jaxb1-impl.jar
+2022-01-20 02:08:58 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-20 02:08:58 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-01-20 02:09:01 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'siteConfig' of type [com.haoran.Brainstorming.config.SiteConfig$$EnhancerBySpringCGLIB$$394bd78a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:09:01 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSourceHelper' of type [com.haoran.Brainstorming.config.DataSourceHelper$$EnhancerBySpringCGLIB$$33b3de14] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:09:01 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSourceConfig' of type [com.haoran.Brainstorming.config.DataSourceConfig$$EnhancerBySpringCGLIB$$43a70028] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:09:01 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2022-01-20 02:09:01 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2022-01-20 02:09:01 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.zaxxer.hikari.HikariDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:09:01 [restartedMain] INFO  o.f.c.i.l.VersionPrinter - Flyway Community Edition 5.2.1 by Boxfuse
+2022-01-20 02:09:01 [restartedMain] INFO  o.f.c.i.d.DatabaseFactory - Database: jdbc:mysql://localhost:3306/pybbs (MySQL 8.0)
+2022-01-20 02:09:01 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-01-20 02:09:01 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-01-20 02:09:01 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-20 02:15:11 [restartedMain] INFO  c.h.B.PybbsApplication - Starting PybbsApplication on LAPTOP-4JJS08AG with PID 44412 (started by admin in C:\Users\admin\Desktop\TO52\Code\BrainStorming code)
+2022-01-20 02:15:11 [restartedMain] INFO  c.h.B.PybbsApplication - The following profiles are active: dev
+2022-01-20 02:15:11 [restartedMain] INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\admin\.m2\repository\com\sun\xml\bind\jaxb-impl\2.1\jaxb-impl-2.1.jar referenced one or more files that do not exist: file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/jaxb-api.jar,file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/activation.jar,file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/jsr173_1.0_api.jar,file:/C:/Users/admin/.m2/repository/com/sun/xml/bind/jaxb-impl/2.1/jaxb1-impl.jar
+2022-01-20 02:15:11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-20 02:15:11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-01-20 02:15:13 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'siteConfig' of type [com.haoran.Brainstorming.config.SiteConfig$$EnhancerBySpringCGLIB$$5acc2b9c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:15:13 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSourceHelper' of type [com.haoran.Brainstorming.config.DataSourceHelper$$EnhancerBySpringCGLIB$$55343226] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:15:13 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSourceConfig' of type [com.haoran.Brainstorming.config.DataSourceConfig$$EnhancerBySpringCGLIB$$6527543a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:15:13 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2022-01-20 02:15:13 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2022-01-20 02:15:13 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.zaxxer.hikari.HikariDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 02:15:13 [restartedMain] INFO  o.f.c.i.l.VersionPrinter - Flyway Community Edition 5.2.1 by Boxfuse
+2022-01-20 02:15:13 [restartedMain] INFO  o.f.c.i.d.DatabaseFactory - Database: jdbc:mysql://localhost:3306/pybbs (MySQL 8.0)
+2022-01-20 02:15:13 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-01-20 02:15:13 [restartedMain] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-01-20 02:15:13 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
